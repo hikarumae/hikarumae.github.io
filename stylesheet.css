@@ -1,7 +1,7 @@
-div {
-    height:300px;
+.main {
+    height:500px;
     background-image:url(背景_海.png)
-    background-size: cover;
+    
 }
 
 .header {
@@ -10,8 +10,12 @@ div {
     height: 100px;
 }
 
+.h1 {
+    font-size: 30px;
+}
+
 .header span {
-    font-size: small;
+    font-size: 16px;
 }
 
 .about-top span {
