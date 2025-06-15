@@ -8,10 +8,12 @@
     background-color: orange;
     color: white;
     height: 100px;
+    margin: 0 20px;
 }
 
-.h1 {
+.top {
     font-size: 30px;
+    padding-left: 10px;
 }
 
 .header span {
@@ -19,7 +21,11 @@
 }
 
 .main {
-    padding-left: 50px;
+    padding: 0 50px;
+}
+
+.title {
+    border-bottom: 2px solid orange;
 }
 
 
@@ -27,9 +33,6 @@
     color:orange
 }
 
-.about-top {
-    background-color: #fffacd;
-}
 
 ul {
     list-style: none;
@@ -49,10 +52,7 @@ ul {
 }
 
 .like-text {
-    margin-left: 15PX;
+    padding-left: 15PX;
 }
 
-.oik {
-
-}
 
