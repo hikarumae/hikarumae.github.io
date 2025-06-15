@@ -22,4 +22,8 @@ li {
     list-style: none;
 }
 
-
+.like img {
+ border-radius: 30PX;
+ width: 100px;
+ height: 100px;
+}
