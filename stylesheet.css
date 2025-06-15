@@ -18,20 +18,41 @@
     font-size: 16px;
 }
 
+.main {
+    padding-left: 50px;
+}
+
+
 .about-top span {
     color:orange
 }
 
-li {
+.about-top {
+    background-color: #fffacd;
+}
+
+ul {
     list-style: none;
+    padding-bottom: 100PX;
+
+}
+
+.likes li {
+    padding-bottom: 150PX;
 }
 
 .like img {
  border-radius: 30PX;
  width: 200px;
  height: 200px;
+ float: left;
 }
 
-.like {
-    float: left;
+.like-text {
+    margin-left: 15PX;
 }
+
+.oik {
+
+}
+
