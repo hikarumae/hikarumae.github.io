@@ -15,12 +15,15 @@
     float:left;
 }
 
-
+img {
+    padding-right:50px;
+}
 
 .top {
     font-size: 30px;
     padding-left: 10px;
     padding-bottom: 50px;
+    float:left;
 }
 
 .top-img {
@@ -64,13 +67,5 @@ ul {
  width: 200px;
  height: 200px;
  float: left;
-}
-
-.like-text {
-    padding-left: 15PX;
-}
-
-.li {
-    margin-left: 20px;
 }
 
