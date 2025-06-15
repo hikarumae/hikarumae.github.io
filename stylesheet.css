@@ -1,19 +1,18 @@
 
 .header-image {
-    height:auto;
-    float:left;
+    height: 400px;
     position:absolute;
     width: 100%;
     display:block;
     object-fit:cover;
-
 }
 
 
 .header {
     color: white;
-    height: 300px;
-    margin: 0 20px;
+    height: 400px;
+    padding-bottom: 50px;
+
 }
 
 .header h1{
@@ -80,4 +79,8 @@ ul {
 
 .footer {
     padding-bottom:100px;
+}
+
+.footer p {
+    padding-left:50px;
 }
