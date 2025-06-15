@@ -31,3 +31,7 @@ li {
  width: 200px;
  height: 200px;
 }
+
+.like {
+    float: left;
+}
