@@ -3,3 +3,22 @@ div {
     background-size: cover;
 }
 
+.header {
+    background-color: orange;
+    color: white;
+    height: 100px;
+}
+
+.header span {
+    font-size: small;
+}
+
+.about-top span {
+    color:orange
+}
+
+li {
+    list-style: none;
+}
+
+
