@@ -1,4 +1,4 @@
-div {
+.div {
     background-image:url(背景_海.png)
     background-size: cover;
 }
@@ -17,7 +17,7 @@ div {
     color:orange
 }
 
-li {
+.li {
     list-style: none;
 }
 
