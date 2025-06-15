@@ -2,6 +2,7 @@
 .header-image {
     height:300px;
     float:left;
+    position:absolute;
 }
 
 
@@ -13,6 +14,7 @@
 
 .header h1{
     float:left;
+    position: relative;
 }
 
 img {
