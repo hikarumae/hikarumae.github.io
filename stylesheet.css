@@ -1,14 +1,18 @@
 
 .header-image {
-    height:300px;
+    height:auto;
     float:left;
     position:absolute;
+    width: 100%;
+    display:block;
+    object-fit:cover;
+
 }
 
 
 .header {
     color: white;
-    height: 300PX;
+    height: 300px;
     margin: 0 20px;
 }
 
@@ -31,11 +35,9 @@ img {
 
 
 .top-img {
-    border-radius: 30PX;
     width: 200px;
     height: 200px;
     float: left;
-
 }
 
 
@@ -67,11 +69,10 @@ ul {
 }
 
 .likes li {
-    padding-bottom: 150PX;
+    padding-bottom: 150px;
 }
 
 .like img {
- border-radius: 30PX;
  width: 200px;
  height: 200px;
  float: left;
