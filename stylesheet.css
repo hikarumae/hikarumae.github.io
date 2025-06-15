@@ -1,10 +1,10 @@
-.main {
+.header-image {
     height:300px;
-
+    padding-bottom: 50px;
+    position:absolute;
 }
 
 .header {
-    background-color: orange;
     color: white;
     height: 100px;
     margin: 0 20px;
@@ -13,6 +13,7 @@
 .top {
     font-size: 30px;
     padding-left: 10px;
+    position:absolute;
 }
 
 .header span {
@@ -53,6 +54,5 @@ ul {
 .like-text {
     padding-left: 15PX;
 }
-
 
 
