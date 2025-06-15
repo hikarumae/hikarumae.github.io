@@ -1,7 +1,7 @@
 .main {
     height:500px;
     background-image:url(背景_海.png)
-    
+
 }
 
 .header {
@@ -28,6 +28,6 @@ li {
 
 .like img {
  border-radius: 30PX;
- width: 100px;
- height: 100px;
+ width: 200px;
+ height: 200px;
 }
